@@ -429,5 +429,9 @@
     //   "reviewCategory": "tools",
     //   "tags": [ "tools" ]
     // }
+    {
+      "packageName": "api.todos",
+      "projectFolder": "services/api.todos"
+    }
   ]
 }
